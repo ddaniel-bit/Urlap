@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+form {
+    background-color: rgb(242, 242, 242);
+    width: 520px;
+}
+table {
+    table-layout: fixed;
+}
+td {
+    height: 50px;
+    width: 185px;
+}
+#td2 {
+    height: 50px;
+    width: 300px;
+}
+label {
+    color: rgb(152, 152, 152);
+}
+span {
+    color: red;
+}
+#kiveteltabl tr td{
+    width: auto;
+    height: auto;
+    color: rgb(152, 152, 152);
+}
+input {
+    border: 1px solid rgb(152, 152, 152);
+    height: 30px;
+    width: 95%;
+}
+select {
+    border: 1px solid rgb(152, 152, 152);
+    height: 34px;
+}
+#radio input, label {
+    border: none;
+    height: auto;
+    width: auto;
+}
+#mentes {
+    color: white;
+    background-color: rgb(243, 102, 32);
+    border: none;
+    width: 70px;
+    height: 35px;
+    border: orangered solid 1px;
+}
+hr {
+    border-top: 1px dotted rgb(152, 152, 152);
+}
+#lang {
+    width: 97%;
+}
+#tele {
+    width: 78%;
+    margin-right: 0px;
+    padding-right: 0px;
+    position:relative;
+    right:5px;
+    border: 1px solid rgb(152, 152, 152);
+}
+#tele36 {
+    margin-left: 0px;
+    padding-left: 0px;
+    border: 1px solid rgb(152, 152, 152);
+}
+#szuletes select {
+    margin: 10px;
+}
